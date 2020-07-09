@@ -1,0 +1,119 @@
+#icon{
+    padding-top: 8px;
+}
+.top-background{
+    background-color: #F0FFF0;
+}
+#top-line{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #FD511A;
+}
+h1{
+    font-size: 48px;
+    font-weight: 900px;
+    font-family: initial;
+}
+#bold{
+    color: #21B573;
+}
+p{
+    color: gray;
+}
+.button{
+   background-color: #21B573;
+    border-radius: 33px;
+    color: white;
+    border-style: none;
+}
+.icons{
+    height: 70px;
+    width: 60px;
+    padding-top: 20px;
+    background-color:#F8FFFB;
+}
+section{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.mid-section{
+    margin-top: 40px;
+}
+#header{
+    text-align: center;
+    color:black;
+}
+.footer-img{
+    height: 30px;
+    width: 30px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.people-icon{
+    padding-left: 40px;
+}
+
+
+.row{
+    padding: 10px 40px;
+}
+
+.card{
+    box-shadow: 1px 5px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 25px;
+}
+.card-body{
+    background-color:#F8FFFB;
+} 
+.hovar:hover{
+    background-color:#FFFFFF;
+    border-radius: 15px;
+    box-shadow: 3px 10px 30px gray;
+}
+#corse-header{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.teacher{
+    height: 200px;
+    width: 200px;
+    padding-right: 20px;
+}
+.testomonial{
+    margin-top: 50px;
+}
+h2{
+    padding-bottom: 20px;
+}
+.promot{
+ background-color: rgba(248, 199, 191, 0.932);
+ text-align: center;
+ border-radius: 50px;
+ margin-left: 200px;
+ margin-right: 200px;
+}
+#subscribe{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%,red 100%);
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 5px 10px;
+    cursor: pointer;
+
+}
+.extra{
+    margin-top:50px;
+}
+.background-footer{
+    background-color: #282531;
+    margin-top: 30px;
+}
+.footer{
+    font-size: small;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
